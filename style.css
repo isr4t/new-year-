@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background-image: url('images/image/Banner\ Image.png'); 
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1320px;
+    height: 600px; 
+    color: #fff;
+    display: flex;
+    justify-content: center;
+     margin: 50px 140px 50px 50px ;
+}
+.overlayout{
+    position: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.new{
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400; 
+margin: 100px 530px 0px 531px;
+}
+h1{
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900; 
+    margin: 120px 344px 400px 344px;
+}
+
+.offer{
+    text-align: center;
+    color: red; 
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: auto;
+    margin-bottom: 48px;
+    
+}
+.deals{
+    text-align: center;
+    color: red;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: auto;
+}
+.categories{
+    text-align: center;
+    color:black;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: auto;
+}
+
+.newyearphoto img{
+    align-items: center;
+    width: 802.9px;
+     height: 500px;
+    margin:auto;
+    display:block;
+     
+
+}
+
+.welcome{
+    background-image: url(images/image/Vectorrr.png);
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1320px;
+    height: 600px; 
+    color: white;
+    display: flex;
+    justify-content: space-between;
+     margin: 50px 140px 50px 50px ;
+  
+    
+}
+
+.welcome-image{
+    right: 0%;
+    margin: 50px 140px 50px 50px ;
+}
+
+.greetings{
+    display: flex;
+    color: #FFF;
+
+}
+#party{
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: 64px;
+   
+}
+.p{ 
+    
+    left: 0px;
+    margin-top: 350px ;
+  margin-left: 0%;
+    font-size: 24px;
+   
+}
+button{
+    background-color: black;
+    color: white;
+}
+span{
+    color:red;
+}
+.time-place{
+    background-color:lightpink;
+    text-align: center;
+    margin:100px 320px 214px 320px;
+}
+.time-place >button{
+    background-color: red;
+}
+ .upcoming{
+    display:inline-block;
+
+ }
